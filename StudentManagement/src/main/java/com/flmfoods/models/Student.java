@@ -33,7 +33,7 @@ public class Student {
 		private String phoneNum;
 		
 		private double marks;
-		
+		private String wastegadu;
 	}
 
 		
